@@ -18,3 +18,15 @@ https://github.com/watty62/abdn_air_quality
 | 15462   |  xxx  | xxx  |  xxx |
 | 17079   |  xxx  | xxx  | xxx  |
 
+# Dataflow
+
+Sensor nodes submit readings to madavi which is then pulled to luftdaten 
+
+# Scrape
+
+We have scrape of the historical data for these sensors (where ID is known). 
+
+https://github.com/watty62/abdn_air_quality/tree/master/data/luftdaten
+Folder for each sensor, then file for results for each day.
+
+ `sensor_id;sensor_type;location;lat;lon;timestamp;P1;durP1;ratioP1;P2;durP2;ratioP2`
