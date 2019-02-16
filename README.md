@@ -7,6 +7,12 @@ Looking at tracing through what data is where, what the flow is for the sensors 
 
 https://github.com/watty62/abdn_air_quality
 
+# Comparisons of luftdaten and other sensors
+
+https://seetheair.wordpress.com/2019/02/07/purpleair-ii-vs-luftdaten/
+
+http://plumeplotter.com/news/LuftDEFRA.pdf
+
 # Sensors in Aberdeen
 
 | Luftdaten_ID | Madavi_ID |latitude| longitude|
