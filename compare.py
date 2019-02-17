@@ -16,7 +16,7 @@ def load(sensors):
         hourly[s] = dfh
     return full, hourly
 
-sensors = [5331 , 7789, 8554]
+sensors = [5331 , 7789, 8554, 8733]
 if __name__ == "__main__":
     
     full, hourly = load(sensors)
