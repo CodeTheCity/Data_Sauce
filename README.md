@@ -15,14 +15,14 @@ http://plumeplotter.com/news/LuftDEFRA.pdf
 
 # Sensors in Aberdeen
 
-| Luftdaten_ID | Madavi_ID |latitude| longitude|
-| :------ |:----------|:--------|:--------|
-| 5331    | 3654427   |57.138  |-2.077   |
-| 7789    | **tbc**   |57.130  |-2.087   |
-| 8554    | 12017738  |57.146  |-2.114   |
-| 8733    | 3654335   |57.136  |-2.107   |
-| 15462   |  xxx  | xxx  |  xxx |
-| 17079   |  xxx  | xxx  | xxx  |
+| Luftdaten_ID (particulates)| luftdaten_ID (temp)| Madavi_ID |latitude| longitude|
+| :------ |:----------|:----------|:--------|:--------|
+| 5331    | 5332 |3654427   |57.138  |-2.077   |
+| 7789    | 7790 | **tbc**   |57.130  |-2.087   |
+| 8554    | 8556 | 12017738  |57.146  |-2.114   |
+| 8733    | 8734? | 3654335   |57.136  |-2.107   |
+| 15462   |  15463 | xxx  | xxx  |  xxx |
+| 17079   |  17080 | xxx  | xxx  | xxx  |
 
 # Dataflow
 
