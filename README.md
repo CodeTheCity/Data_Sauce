@@ -64,3 +64,14 @@ Spearman correlation between sensors (more valid since data is skewed and has ou
 | 7789 P2  | |0.906765734563| |0.874029415016| |1.0| |0.89751895235|
 | 8733 P1  |0.946524972808| |0.870656302456| |0.854244472158| |1.0| |
 | 8733 P2  | |0.957153474657| |0.870762759225| |0.89751895235| |1.0|
+
+
+Percentage of life of sensor  5331 P1  where particulate matter >  40  micro grams per cubic meter:  8.581590063270923  %
+Percentage of life of sensor  5331 P2  where particulate matter >  40  micro grams per cubic meter:  0.5372465843391006  %
+Percentage of life of sensor  7789 P1  where particulate matter >  40  micro grams per cubic meter:  6.69374880519977  %
+Percentage of life of sensor  7789 P2  where particulate matter >  40  micro grams per cubic meter:  0.24804052762378132  %
+Percentage of life of sensor  8554 P1  where particulate matter >  40  micro grams per cubic meter:  6.048349700648166  %
+Percentage of life of sensor  8554 P2  where particulate matter >  40  micro grams per cubic meter:  0.4771080861061591  %
+Percentage of life of sensor  8733 P1  where particulate matter >  40  micro grams per cubic meter:  11.28586575844231  %
+Percentage of life of sensor  8733 P2  where particulate matter >  40  micro grams per cubic meter:  0.7775600038556694  %
+
