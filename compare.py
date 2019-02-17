@@ -27,5 +27,13 @@ if __name__ == "__main__":
        
     hdf = pd.concat(full.values(), axis=1)
     print(hdf.info())
-    print(hdf.corr())
+    cor = hdf.corr(method='spearman')
+    print(cor)
+    mat = cor.as_matrix()
+    for i in range(mat.shape[0]):
+        for j in range(mat.shape[1]):
+            if (i+j)%2 != 0:
+                mat[i][j] = 0
+    for row in cor.as_matrix():
+        print("|".join([str(v) for v in row]))
 
