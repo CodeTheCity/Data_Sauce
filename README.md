@@ -40,6 +40,7 @@ Folder for each sensor, then file for results for each day.
 # Comparison of sensors
 
 Pearrson correlation between sensors:
+
 |       | 8554 P1 |  8554 P2 |  5331 P1 |  5331 P2 |  7789 P1 |  7789 P2 |  8733 P1 |  8733 P2 |
 | :------ |:----------|:--------|:--------| :------ |:----------|:--------|:--------|:--------|
 | 8554 P1  | 1.000000  |           | 0.806795  |           | 0.840279  |           | 0.956321 |          | 
@@ -52,6 +53,7 @@ Pearrson correlation between sensors:
 | 8733 P2  |           | 0.970601  |           | 0.375951  |           | 0.929308  |          | 1.000000 | 
 
 Spearman correlation between sensors (more valid since data is skewed and has outliers): 
+
 |       | 8554 P1 |  8554 P2 |  5331 P1 |  5331 P2 |  7789 P1 |  7789 P2 |  8733 P1 |  8733 P2 |
 | :------ |:----------|:--------|:--------| :------ |:----------|:--------|:--------|:--------|
 | 8554 P1  |1.0| |0.81091697049| |0.896579489448| |0.946524972808| |
